@@ -1,20 +1,17 @@
-# Task Manager App
+# Tour And Travels
 
 ## Description  
-The **Task Manager App** is a simple and efficient tool that helps users create, manage, and track their daily tasks.  
-It allows users to add, edit, delete, and mark tasks as completed, ensuring better productivity and organization.  
-
+*Tours and Travels* refers to services that organize and facilitate trips for leisure, business, or adventure. It includes transportation, accommodation, sightseeing, and guided experiences to enhance travel convenience and enjoyment.
 ## Features  
-- ✅ Add and remove tasks easily  
-- 📅 Set deadlines for each task  
-- 🔔 Receive notifications for pending tasks  
-- 🌙 Dark mode support  
-- 📊 View progress statistics  
+- Customizable Packages – Tailored travel plans based on budget and preferences.
+-Transportation Services – Flight, train, bus, and car rental options.
+-Accommodation Booking – Hotels, resorts, and homestays for comfortable stays.
+-Tour Guides – Expert-guided sightseeing and cultural experiences. 
 
 ## Installation  
 Follow these steps to set up the project locally:  
 
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/your-username/task-manager.git
+   git clone https://github.com/your-username/tours-and-travels.git
 
